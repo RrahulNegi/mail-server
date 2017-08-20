@@ -1,0 +1,10 @@
+com\mailservice\SpringBootWebApplication.class
+com\mailservice\service\MailServiceImpl.class
+com\mailservice\bean\MailBean.class
+com\mailservice\controller\MailController.class
+com\mailservice\dao\MailDaoImpl.class
+com\mailservice\mail\Email.class
+com\mailservice\service\MailService.class
+com\mailservice\mail\EmailService.class
+com\mailservice\bean\MailDataBean.class
+com\mailservice\dao\MailDao.class
